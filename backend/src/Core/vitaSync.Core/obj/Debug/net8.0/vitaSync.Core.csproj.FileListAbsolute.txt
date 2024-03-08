@@ -1,0 +1,12 @@
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\bin\Debug\net8.0\vitaSync.Core.deps.json
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\bin\Debug\net8.0\vitaSync.Core.dll
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\bin\Debug\net8.0\vitaSync.Core.pdb
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.Core.csproj.AssemblyReference.cache
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.Core.GeneratedMSBuildEditorConfig.editorconfig
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.Core.AssemblyInfoInputs.cache
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.Core.AssemblyInfo.cs
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.Core.csproj.CoreCompileInputs.cache
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.Core.dll
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\refint\vitaSync.Core.dll
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.Core.pdb
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\ref\vitaSync.Core.dll

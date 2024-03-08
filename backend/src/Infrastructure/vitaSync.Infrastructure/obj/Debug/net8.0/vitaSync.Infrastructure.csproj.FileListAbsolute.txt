@@ -1,0 +1,14 @@
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\bin\Debug\net8.0\vitaSync.Infrastructure.deps.json
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\bin\Debug\net8.0\vitaSync.Infrastructure.runtimeconfig.json
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\bin\Debug\net8.0\vitaSync.Infrastructure.dll
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\bin\Debug\net8.0\vitaSync.Infrastructure.pdb
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.csproj.AssemblyReference.cache
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.AssemblyInfoInputs.cache
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.AssemblyInfo.cs
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.csproj.CoreCompileInputs.cache
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.dll
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\refint\vitaSync.Infrastructure.dll
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.pdb
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.genruntimeconfig.cache
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\ref\vitaSync.Infrastructure.dll

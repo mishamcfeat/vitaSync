@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{101E71BA-44D4-4C98-BCC7-70A6291C43A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{AF185563-DE98-42A8-AFB6-5A890AEAA33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vitaSync.Core", "src\Core\vitaSync.Core\vitaSync.Core.csproj", "{FCCFEFFB-2E82-4164-BA63-482FF251328D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{6FF71303-D11B-42DE-A46E-A17422942F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vitaSync.API", "src\API\vitaSync.API\vitaSync.API.csproj", "{073EA5A6-BF00-4F62-AC49-17B089C45877}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E5458DB8-C942-42C2-A14F-83AFF4C07D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vitaSync.Infrastructure", "src\Infrastructure\vitaSync.Infrastructure\vitaSync.Infrastructure.csproj", "{9552FB02-BBD6-42F5-BFA5-90E5F47C2710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCFEFFB-2E82-4164-BA63-482FF251328D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCFEFFB-2E82-4164-BA63-482FF251328D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCFEFFB-2E82-4164-BA63-482FF251328D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCFEFFB-2E82-4164-BA63-482FF251328D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073EA5A6-BF00-4F62-AC49-17B089C45877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073EA5A6-BF00-4F62-AC49-17B089C45877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073EA5A6-BF00-4F62-AC49-17B089C45877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073EA5A6-BF00-4F62-AC49-17B089C45877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9552FB02-BBD6-42F5-BFA5-90E5F47C2710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9552FB02-BBD6-42F5-BFA5-90E5F47C2710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9552FB02-BBD6-42F5-BFA5-90E5F47C2710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9552FB02-BBD6-42F5-BFA5-90E5F47C2710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AF185563-DE98-42A8-AFB6-5A890AEAA33E} = {101E71BA-44D4-4C98-BCC7-70A6291C43A9}
+		{FCCFEFFB-2E82-4164-BA63-482FF251328D} = {AF185563-DE98-42A8-AFB6-5A890AEAA33E}
+		{6FF71303-D11B-42DE-A46E-A17422942F17} = {101E71BA-44D4-4C98-BCC7-70A6291C43A9}
+		{073EA5A6-BF00-4F62-AC49-17B089C45877} = {6FF71303-D11B-42DE-A46E-A17422942F17}
+		{E5458DB8-C942-42C2-A14F-83AFF4C07D5E} = {101E71BA-44D4-4C98-BCC7-70A6291C43A9}
+		{9552FB02-BBD6-42F5-BFA5-90E5F47C2710} = {E5458DB8-C942-42C2-A14F-83AFF4C07D5E}
+	EndGlobalSection
+EndGlobal

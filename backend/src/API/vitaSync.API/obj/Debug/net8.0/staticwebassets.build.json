@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OFHM/ginAvshF2OERk3msjxDG2UQGt5XiDAXBBVyCxI=",
+  "Source": "vitaSync.API",
+  "BasePath": "_content/vitaSync.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
