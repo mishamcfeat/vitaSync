@@ -42,3 +42,4 @@ N:\CODE_MAIN\vitaSync\backend\src\API\vitaSync.API\obj\Debug\net8.0\refint\vitaS
 N:\CODE_MAIN\vitaSync\backend\src\API\vitaSync.API\obj\Debug\net8.0\vitaSync.API.pdb
 N:\CODE_MAIN\vitaSync\backend\src\API\vitaSync.API\obj\Debug\net8.0\vitaSync.API.genruntimeconfig.cache
 N:\CODE_MAIN\vitaSync\backend\src\API\vitaSync.API\obj\Debug\net8.0\ref\vitaSync.API.dll
+N:\CODE_MAIN\vitaSync\backend\src\API\vitaSync.API\obj\Debug\net8.0\vitaSync.API.sourcelink.json

@@ -12,3 +12,4 @@ N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Deb
 N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.pdb
 N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.genruntimeconfig.cache
 N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\ref\vitaSync.Infrastructure.dll
+N:\CODE_MAIN\vitaSync\backend\src\Infrastructure\vitaSync.Infrastructure\obj\Debug\net8.0\vitaSync.Infrastructure.sourcelink.json

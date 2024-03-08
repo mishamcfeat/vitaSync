@@ -10,3 +10,4 @@ N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.C
 N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\refint\vitaSync.Core.dll
 N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.Core.pdb
 N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\ref\vitaSync.Core.dll
+N:\CODE_MAIN\vitaSync\backend\src\Core\vitaSync.Core\obj\Debug\net8.0\vitaSync.Core.sourcelink.json
