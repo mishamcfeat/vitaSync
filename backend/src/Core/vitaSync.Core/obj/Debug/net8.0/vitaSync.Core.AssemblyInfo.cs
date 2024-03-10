@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vitaSync.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50b526101fc09e0028dbb4d67e78acdd05097b77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba0d08b765d47d8aed19441f16f3df6377aa7316")]
 [assembly: System.Reflection.AssemblyProductAttribute("vitaSync.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vitaSync.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
